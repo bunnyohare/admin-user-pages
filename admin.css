@@ -1,0 +1,27 @@
+.side-nav{
+    background-color: #c8c8d9;
+    width: 20%;
+    justify-content: left;
+
+
+}
+
+.main-container{
+    background-color: bisque;
+    display: flex;
+}
+
+.user-data{
+    display: flex;
+}
+
+.photo{
+    justify-content: left;
+    padding-left: 10%;
+    padding-top: 10%;
+}
+
+.info-text{
+    padding-left: 10%;
+    padding-top: 10%;
+}
